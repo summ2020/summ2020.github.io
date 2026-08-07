@@ -2,43 +2,54 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Your Affiliation</a>. Your City, Country.
+subtitle: Postdoctoral Researcher, <a href='#'>2012 Laboratories, Huawei Technologies</a>. Hangzhou, China.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>2012 Lab / </p>
-    <p>Huawei</p>
-    <p>Hangzhou, China</p>
+    <p>2012 Laboratories</p>
+    <p>Huawei Technologies</p>
+    <p>Hangzhou, Zhejiang, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: true
+  scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
-## Welcome! 👋
+## About Me
 
-Hi there! I'm **Mingming Su**, a researcher / engineer interested in **[your field]**. This is my personal academic homepage where I share my research, projects, and updates.
+Hi! I'm **Mingming Su**, a Postdoctoral Researcher at **Huawei Technologies (2012 Laboratories)**. My research focuses on **AIGC and Multimodal Large Language Models (MLLMs)**, with the goal of enabling AI to understand and reason about the physical world accurately.
 
 ### Research Interests
 
-My research focuses on:
-- **Area 1**: Video generation
-- **Area 2**: LLM/VLM/Agent  
-- **Area 3**: AI in Computational Mechanics
-### Short Bio
+- **Video Generation**: Controllable video generation with diffusion and autoregressive models
+- **LLM / VLM / Agent**: Spatial reasoning capabilities of multimodal large language models
+- **AI in Computational Mechanics**: Deep learning for constitutive modeling and scientific computing
 
-I am currently a Postdoc at Huawei. I completed my PhD from Zhejiang University in 2025. 
+### Education
 
-Feel free to reach out if you're interested in collaboration or just want to chat about research!
+- **Ph.D. in Geotechnical Engineering**, Zhejiang University, 2020 – 2025
+  - Advisor: Prof. Ning Guo
+  - Research: AI for science, deep learning, computational mechanics
+- **B.Eng. in Civil Engineering**, Dalian University of Technology, 2016 – 2020
+  - Ranked 1/66, Excellent Graduate and Graduation Thesis (2020)
+  - Visiting student at Chiba University & Kanazawa University, Japan (2019)
+
+### Honors & Awards
+
+- Honor for Graduates — Excellence in Academic Innovation (2023)
+- Academic Scholarship (2021, 2022, 2024)
+- First-class Academic Scholarship (top 5%) (2017, 2018, 2019)
+
+### Skills
+
+**Programming**: Python, C, Matlab, LaTeX &middot; **Languages**: English, Mandarin Chinese
