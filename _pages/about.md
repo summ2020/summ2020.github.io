@@ -34,8 +34,8 @@ Hi there! I'm **Mingming Su**, a researcher / engineer interested in **[your fie
 ### Research Interests
 
 My research focuses on:
-- **Area 1**: Brief description of your first research area
-- **Area 2**: Brief description of your second research area  
+- **Area 1**: Video generation
+- **Area 2**: LLM/VLM/Agent  
 - **Area 3**: AI in Computational Mechanics
 ### Short Bio
 
