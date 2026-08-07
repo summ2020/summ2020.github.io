@@ -1,21 +1,19 @@
-# Social media links and usernames
-# jekyll-socials v0.0.7 only supports: email, scholar_userid, inspirehep_id, rss_icon, cv_pdf
-# For other networks, use custom entries with logo/title/url format
+# Social media links - logo field uses Font Awesome or Academicons class names
 email: sumingm2020@gmail.com
 scholar_userid: Q7h8YfoAAAAJ
 github:
-  logo: https://github.com/favicon.ico
+  logo: fa-brands fa-github
   title: GitHub
   url: https://github.com/summ2020
 linkedin:
-  logo: https://linkedin.com/favicon.ico
+  logo: fa-brands fa-linkedin
   title: LinkedIn
   url: https://www.linkedin.com/in/明明-苏-25970b248
 twitter:
-  logo: https://x.com/favicon.ico
-  title: X (Twitter)
+  logo: fa-brands fa-x-twitter
+  title: X
   url: https://x.com/MMSu59173072
 researchgate:
-  logo: https://www.researchgate.net/favicon.ico
+  logo: fa-brands fa-researchgate
   title: ResearchGate
   url: https://www.researchgate.net/profile/Mingming-Su
