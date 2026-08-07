@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2012 Lab / Lab</p>
+    <p>2012 Lab / </p>
     <p>Huawei</p>
     <p>Hangzhou, China</p>
 
