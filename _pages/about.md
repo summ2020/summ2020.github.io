@@ -36,8 +36,7 @@ Hi there! I'm **Mingming Su**, a researcher / engineer interested in **[your fie
 My research focuses on:
 - **Area 1**: Brief description of your first research area
 - **Area 2**: Brief description of your second research area  
-- **Area 3**: Brief description of your third research area
-
+- **Area 3**: AI in Computational Mechanics
 ### Short Bio
 
 I am currently a Postdoc at Huawei. I completed my PhD from Zhejiang University in 2025. 
