@@ -17,9 +17,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
 
 latest_posts:
   enabled: false
@@ -35,6 +33,11 @@ Hi! I'm **Mingming Su**, a Postdoctoral Researcher at **Huawei Technologies (201
 - **LLM / VLM / Agent**: Spatial reasoning capabilities of multimodal large language models
 - **AI in Computational Mechanics**: Deep learning for constitutive modeling and scientific computing
 
+### News
+
+- **Aug 18, 2025** — Joined **Huawei Technologies** as Postdoctoral Researcher at 2012 Laboratories
+- **Jun 03, 2025** — Successfully defended **Ph.D. thesis** at Zhejiang University 🎓
+
 ### Education
 
 - **Ph.D., Zhejiang University, 2020 – 2025**
@@ -44,4 +47,3 @@ Hi! I'm **Mingming Su**, a Postdoctoral Researcher at **Huawei Technologies (201
   - Major: Civil Engineering
   - Ranked 1/66, Excellent Graduate and Graduation Thesis (2020)
   - Visiting student at Chiba University & Kanazawa University, Japan (2019)
-
