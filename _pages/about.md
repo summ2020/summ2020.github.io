@@ -44,12 +44,3 @@ Hi! I'm **Mingming Su**, a Postdoctoral Researcher at **Huawei Technologies (201
   - Ranked 1/66, Excellent Graduate and Graduation Thesis (2020)
   - Visiting student at Chiba University & Kanazawa University, Japan (2019)
 
-### Honors & Awards
-
-- Honor for Graduates — Excellence in Academic Innovation (2023)
-- Academic Scholarship (2021, 2022, 2024)
-- First-class Academic Scholarship (top 5%) (2017, 2018, 2019)
-
-### Skills
-
-**Programming**: Python, C, Matlab, LaTeX &middot; **Languages**: English, Mandarin Chinese
