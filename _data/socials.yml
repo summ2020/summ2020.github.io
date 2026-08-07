@@ -1,9 +1,20 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: sumingm2020@gmail.com # your email address
-scholar_userid: Q7h8YfoAAAAJ # your Google Scholar ID
-# orcid: 0009-0000-0760-2731 # your ORCID
+# Social media links and usernames
+# jekyll-socials v0.0.7 only supports: email, scholar_userid, inspirehep_id, rss_icon, cv_pdf
+# For other networks, use custom entries with logo/title/url format
+email: sumingm2020@gmail.com
+scholar_userid: Q7h8YfoAAAAJ
+github:
+  logo: https://github.com/favicon.ico
+  title: GitHub
+  url: https://github.com/summ2020
+linkedin:
+  logo: https://linkedin.com/favicon.ico
+  title: LinkedIn
+  url: https://www.linkedin.com/in/明明-苏-25970b248
+twitter:
+  logo: https://x.com/favicon.ico
+  title: X (Twitter)
+  url: https://x.com/MMSu59173072
 researchgate:
   logo: https://www.researchgate.net/favicon.ico
   title: ResearchGate
@@ -12,6 +23,3 @@ orcid_profile:
   logo: https://orcid.org/assets/vectors/orcid.logo.icon.svg
   title: ORCID
   url: https://orcid.org/0009-0000-0760-2731
-linkedin: 明明-苏-25970b248 # your LinkedIn username
-twitter: MMSu59173072 # your X/Twitter username
-github: summ2020 # your GitHub username
