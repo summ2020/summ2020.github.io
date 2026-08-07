@@ -37,10 +37,11 @@ Hi! I'm **Mingming Su**, a Postdoctoral Researcher at **Huawei Technologies (201
 
 ### Education
 
-- **Ph.D.** in Geotechnical Engineering, **Zhejiang University**, 2020 – 2025
-  - Advisor: Prof. Ning Guo
+- **Ph.D., Zhejiang University, 2020 – 2025**
+  - Major: Geotechnical Engineering \| Advisor: Prof. Ning Guo
   - Research: AI for science, deep learning, computational mechanics
-- **B.Eng.** in Civil Engineering, **Dalian University of Technology**, 2016 – 2020
+- **B.Eng., Dalian University of Technology, 2016 – 2020**
+  - Major: Civil Engineering
   - Ranked 1/66, Excellent Graduate and Graduation Thesis (2020)
   - Visiting student at Chiba University & Kanazawa University, Japan (2019)
 
