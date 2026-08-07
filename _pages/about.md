@@ -40,6 +40,6 @@ My research focuses on:
 
 ### Short Bio
 
-I am currently a [your position] at [your institution]. I completed my [degree] from [university] in [year]. 
+I am currently a [your position] at [your institution]. I completed my PhD from Zhejiang University in 2025. 
 
 Feel free to reach out if you're interested in collaboration or just want to chat about research!
