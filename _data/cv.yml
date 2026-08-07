@@ -1,189 +1,100 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Mingming Su
+  label: Postdoctoral Researcher
+  email: sumingm2020@gmail.com
+  location: Hangzhou, China
+  image: prof_pic.jpg
+  summary: Postdoctoral Researcher at Huawei Technologies (2012 Laboratories). Research focuses on AIGC and Multimodal Large Language Models (MLLMs), with the goal of enabling AI to understand and reason about the physical world.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Google Scholar
+      username: Q7h8YfoAAAAJ
     - network: GitHub
-      username: example
+      username: summ2020
     - network: LinkedIn
-      username: example
+      username: 明明-苏-25970b248
+    - network: X
+      username: MMSu59173072
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Hangzhou
+    region: Zhejiang
+    countryCode: CN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        area: Geotechnical Engineering
+        studyType: Ph.D.
+        start_date: 2020
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Ning Guo"
+          - "Research: AI for science, deep learning, computational mechanics"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Dalian University of Technology
+        location: Dalian, China
+        area: Civil Engineering
+        studyType: B.Eng.
+        start_date: 2016
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Ranked 1/66, Excellent Graduate and Graduation Thesis (2020)"
+          - "Visiting student at Chiba University & Kanazawa University, Japan (2019)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Huawei Technologies Co., Ltd.
+        position: Postdoctoral Researcher
+        location: Hangzhou, China
+        start_date: 2025
+        end_date: 2027
+        summary: 2012 Laboratories. Research on controllable video generation and spatial reasoning capabilities of MLLMs.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Nanhua Futures Co., Ltd.
+        position: Quant Researcher (Internship)
+        location: Hangzhou, China
+        start_date: 2022
+        end_date: 2022
+        summary: Collected and processed historical futures market data, developed and backtested trading strategies, and built factor models to generate trading signals.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Honor for Graduates — Excellence in Academic Innovation
+        date: 2023
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Academic Scholarship
+        date: 2021
+        summary: "Also awarded in 2022, 2024"
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: First-class Academic Scholarship (top 5%)
+        date: 2017
+        summary: "Also awarded in 2018, 2019"
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        keywords: "Python, C, Matlab, LaTeX"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Languages
+        keywords: "English (fluent), Mandarin Chinese (native)"
 
-      - name: English
-        summary: "Fluent"
+    Publications:
+      - title: A thermodynamics-informed neural network for elastoplastic constitutive modeling of granular materials
+        authors:
+          - MM Su, Y Yu, TH Chen, N Guo, ZX Yang
+        publisher: Computer Methods in Applied Mechanics and Engineering
+        releaseDate: 2024
+        url: https://www.sciencedirect.com/science/article/abs/pii/S0045782524005024
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors
+        authors:
+          - Mingming Su, Ning Guo, Zhongxuan Yang
+        publisher: International Journal for Numerical and Analytical Methods in Geomechanics
+        releaseDate: 2023
+        url: https://onlinelibrary.wiley.com/doi/10.1002/nag.3620
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: A multifidelity neural network for modeling small-to-medium strain dynamic properties of soils
+        authors:
+          - MM Su, X Wei, N Guo
+        publisher: Acta Geotechnica
+        releaseDate: 2026
+        url: https://link.springer.com/article/10.1007/s11440-025-02811-8
